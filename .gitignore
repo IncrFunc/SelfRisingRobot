@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+RL/runs/
+RL/acceptance.json
+RL/policy_network.h
+RL/curriculum_policy.zip
